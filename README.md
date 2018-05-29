@@ -1,13 +1,11 @@
 # material-angular-paging
 Angular Material Design Pagination, it is very simple and lightweight having minimal numbers attribute to configure.
 
-![demo image](https://raw.githubusercontent.com/Crawlink/material-angular-paging/master/demo/paging-demo.png)
+![demo image](https://github.com/ipconfigure/material-angular-paging/blob/remove-clown-shoes/demo/paging-demo.png?raw=true)
 
 #### Demo :
 
-[Codepen](http://codepen.io/crawlink/pen/qNbwpE)
-
-[Used in website](http://topicson.com/search.html)
+[Codepen](https://codepen.io/emcallaway/pen/XYWpJb)
 
 
 #### Install
